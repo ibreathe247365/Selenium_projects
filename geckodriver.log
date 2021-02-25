@@ -18,3 +18,4 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1614184240035	Marionette	ERROR	[18] No reply from Marionette:Register
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614193331639	Marionette	INFO	Stopped listening on port 60381
